@@ -1,0 +1,1 @@
+https://github.com/yaroslavmoshkin/kottans_web_test/blob/master/task_0/all.jpg
